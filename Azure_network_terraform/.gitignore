@@ -1,0 +1,16 @@
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+crash.log
+override.tf
+override.tf.json
+terraform.tfvars
+
+# Sensitive scripts
+var.sh
+
+# IDE or system files
+.vscode/
+.idea/
+.DS_Store
