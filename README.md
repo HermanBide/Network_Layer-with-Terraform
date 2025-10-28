@@ -23,5 +23,5 @@ Terraform provides Infrastructure as Code (IaC), making it:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/azure-network-terraform.git
+   https://github.com/HermanBide/Network_Layer-with-Terraform/tree/main/Azure_network_terraform
    cd azure-network-terraform
